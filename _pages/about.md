@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Yuming Zhao's Homepage"
+#title: "Welcome to Yuming Zhao's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
