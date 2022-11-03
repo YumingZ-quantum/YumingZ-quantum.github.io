@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the [Institute for Quantum Computing](https://uwaterloo.ca/institute-for-quantum-computing/) and [Department of Pure Mathematics](https://uwaterloo.ca/pure-mathematics/) at [University of Waterloo](https://uwaterloo.ca/), supervised by [William Slofstra](http://elliptic.space/). Previousley, I received my bachelor degree in Mathematics and Applied Mathematics from [Zhejiang University](https://www.zju.edu.cn/english/) in 2019, under the supervision of [Junde Wu](https://person.zju.edu.cn/en/wujunde). I also spent a semester at [Rice University](https://www.rice.edu/) as an undergraduate exchange student (2017).
+I am a Ph.D. candidate in the [Institute for Quantum Computing](https://uwaterloo.ca/institute-for-quantum-computing/) and [Department of Pure Mathematics](https://uwaterloo.ca/pure-mathematics/) at [University of Waterloo](https://uwaterloo.ca/), supervised by [William Slofstra](http://elliptic.space/). Previously, I received my bachelor degree in Mathematics and Applied Mathematics from [Zhejiang University](https://www.zju.edu.cn/english/) in 2019, under the supervision of [Junde Wu](https://person.zju.edu.cn/en/wujunde). I also spent a semester at [Rice University](https://www.rice.edu/) as an undergraduate exchange student (2017).
 
 
 Research interests
