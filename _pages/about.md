@@ -15,7 +15,7 @@ Research interests
 ======
 I am broadly interested in mathematics of quantum information and computation. Current interests include
 - Non-local games
-- Self-testing of quantum correlations
+- Self-testing for quantum correlations
 - Multi-prover interactive proofs with entanglement
 - Operator algebras
 - Approximate representation theory
