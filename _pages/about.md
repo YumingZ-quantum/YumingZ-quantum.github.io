@@ -17,7 +17,7 @@ I am broadly interested in mathematics of quantum information and computation. C
 - Non-local games
 - Self-testing of quantum correlations
 - Multi-prover interactive proofs with entanglement
-- Operator algabras
+- Operator algebras
 - Approximate representation theory
 - Sum-of-squares in quantum information
 
