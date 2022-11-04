@@ -80,15 +80,20 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuming Zhao 赵雨鸣"
+  name             : "Yuming Zhao 
+                       赵雨鸣"
   avatar           : "profile.png"
   bio              : "PhD candidate @ UWaterloo"
-  location         : "QNC4203"
+  location         : "QNC4203 
+                      Institute for Quantum Computing
+                      University of Waterloo
+                      200 University Avenue West
+                      Waterloo, ON, Canada N2L 3G1"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :  "yuming.zhao@uwaterloo.ca"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Yuming-Zhao-4"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,14 +107,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         :  "https://www.linkedin.com/in/yuming-zhao-7781b9256/"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-2093-3575"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : # "https://twitter.com/YumingZ_quantum"
   vine             :
   weibo            :
   xing             :
