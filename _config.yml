@@ -87,6 +87,7 @@ author:
 <br> 200 University Avenue West
  <br> Waterloo, ON, Canada N2L 3G1 </p>"
   address-book     : "Waterloo, ON"
+  address-card     : "Waterloo, ON"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
