@@ -83,7 +83,11 @@ author:
   name             : "Yuming Zhao | 赵雨鸣"
   avatar           : "profile.png"
   bio              : "PhD candidate @ UWaterloo"
-  location         : "Office: QNC4203 in <a href="https://uwaterloo.ca/institute-for-quantum-computing/about/location">IQC</a> " 
+  location         : "Office: QNC4203
+                      <br> Institute for Quantum Computing
+                      <br>University of Waterloo
+                      <br>200 University Avenue West
+                      <br>Waterloo, ON, Canada N2L 3G1" 
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-2093-3575"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
