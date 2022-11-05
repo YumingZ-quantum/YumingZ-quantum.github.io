@@ -83,8 +83,10 @@ author:
   name             : "Yuming Zhao | 赵雨鸣"
   avatar           : "profile.png"
   bio              : "PhD candidate @ UWaterloo"
-  location         : "QNC4203 \\\ canada "
-  address-card     : "Waterloo, ON"
+  location         : "QNC4203
+  
+                       canada "
+  address-book     : "Waterloo, ON"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
