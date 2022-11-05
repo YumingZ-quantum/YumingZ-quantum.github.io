@@ -83,11 +83,11 @@ author:
   name             : "Yuming Zhao | 赵雨鸣"
   avatar           : "profile.png"
   bio              : "PhD candidate @ UWaterloo"
-  location         : "Office: QNC4203 <br> &nbsp Institute for quantum computing <br> &nbsp University of Waterloo
-<br> &nbsp 200 University Avenue West
- <br> &nbsp Waterloo, ON, Canada N2L 3G1 </p>"
-  address-book     : "Waterloo, ON"
-  address-card     : "Waterloo, ON"
+  location         : "Office: QNC4203 in IQC"
+  address-book     : "University of Waterloo
+                    <br> &nbsp&nbsp 200 University Avenue West
+                    <br> &nbsp&nbsp Waterloo, ON, Canada N2L 3G1 "
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-2093-3575"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -107,7 +107,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :  "yuming-zhao-7781b9256/"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-2093-3575"
+  
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
