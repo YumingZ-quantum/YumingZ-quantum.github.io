@@ -86,8 +86,8 @@ author:
   location         : "Office: QNC4203" 
   orcid            : "https://orcid.org/0000-0002-2093-3575"
   employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  pubmed           :
+  googlescholar    : 
   email            :  "yuming.zhao@uwaterloo.ca"
   researchgate     :  "https://www.researchgate.net/profile/Yuming-Zhao-4"
   uri              :
@@ -101,7 +101,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :  "yuming-zhao-7781b9256/"
   
