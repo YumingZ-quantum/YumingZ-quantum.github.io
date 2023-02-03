@@ -23,5 +23,10 @@ I am broadly interested in mathematics of quantum information and computation. C
 
 
 Publications and preprints
+- An operator-algebraic formulation of self-testing [arXiv](https://arxiv.org/abs/2301.11291))
+  - with Connor Paddock, William slofstra, and Yangchen zhou
+  - talk at QIP 2023
 ======
 Coming soon!
+
+
