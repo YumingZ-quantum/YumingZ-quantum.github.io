@@ -25,8 +25,13 @@ I am broadly interested in mathematics of quantum information and computation. C
 Publications and preprints
 ======
 - An operator-algebraic formulation of self-testing ([arXiv](https://arxiv.org/abs/2301.11291))\\
-    Joint work with Connor Paddock, William slofstra, and Yangchen Zhou, contributed talk at QIP 2023
-    
+    Joint work with Connor Paddock, William Slofstra, and Yangchen Zhou, contributed talk at QIP 2023
+
+- Positivity is undecidable in tensor-product of free algebras (in preparation)\\
+    Joint work with Arthur Mehta and William Slofstra
+
+- Zero-knowledge quantum proofs for skeptical verifiers (in preparation)\\
+    Joint work with Anne Broadbent and Arthur Mehta    
   
 
 
