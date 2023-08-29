@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -84,7 +84,7 @@ author:
   avatar           : "3F.jpg"
   bio              : "PhD candidate @ UWaterloo"
   location         : "Office: QNC4203" 
-  orcid            : "https://orcid.org/0000-0002-2093-3575"
+  orcid            : 
   employer         :
   pubmed           :
   googlescholar    :  "https://scholar.google.com/citations?user=FQHGa48AAAAJ"
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :  "yuming-zhao-7781b9256/"
+  linkedin         : 
   
   pinterest        :
   soundcloud       :
@@ -116,7 +116,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  zhihu            : "https://www.zhihu.com/people/zhao-yu-ming-61"
+  zhihu            : 
 
 
 # Reading Files
