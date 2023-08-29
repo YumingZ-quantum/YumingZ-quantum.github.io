@@ -30,8 +30,8 @@ Publications and preprints
     Joint work with [Anne Broadbent](https://mysite.science.uottawa.ca/abroadbe/) and [Arthur Mehta](https://mysite.science.uottawa.ca/amehta2/)\\
     Talk at Qcrypt 2023
 
-- Positivity is undecidable in tensor-product of free algebras (in preparation)\\
-    Joint work with Arthur Mehta and William Slofstra
+- <b>Positivity is undecidable in tensor-product of free algebras</b> (in preparation)\\
+    Joint work with [Arthur Mehta](https://mysite.science.uottawa.ca/amehta2/) and [William Slofstra](http://elliptic.space/)
 
     
   
