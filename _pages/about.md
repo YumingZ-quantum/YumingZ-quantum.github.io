@@ -33,6 +33,9 @@ Publications and preprints
 - <b>Positivity is undecidable in tensor-product of free algebras</b> (in preparation)\\
     Joint work with [Arthur Mehta](https://mysite.science.uottawa.ca/amehta2/) and [William Slofstra](http://elliptic.space/)
 
+
+Talks and presentations
+======
     
   
 
