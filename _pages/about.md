@@ -14,21 +14,18 @@ I am a Ph.D. candidate in the [Institute for Quantum Computing](https://uwaterlo
 Research interests
 ======
 I am broadly interested in mathematics of quantum information and computation. Current interests include
-- Non-local games
-- Self-testing for quantum correlations
-- Multi-prover interactive proofs with entanglement
-- Operator algebras
-- Approximate representation theory
-- Sum-of-squares in quantum information
+- Non-local games, quantum self-testing,  multi-prover interactive proofs with entanglement
+- Operator algebras, approximate representation theory
 
 
 Publications and preprints
 ======
 - An operator-algebraic formulation of self-testing ([arXiv](https://arxiv.org/abs/2301.11291))\\
-    Joint work with Connor Paddock, William Slofstra, and Yangchen Zhou, contributed talk at QIP 2023 ([video](https://www.youtube.com/watch?v=QsFMjlEF7Wk))
+    Joint work with Connor Paddock, William Slofstra, and Yangchen Zhou, talk at QIP 2023 ([video](https://www.youtube.com/watch?v=QsFMjlEF7Wk))
+    To appear in <em>Annales Henri Poincaré</em>
 
 - Quantum delegation with an off-the-shelf device ([arXiv](https://arxiv.org/abs/2304.03448))\\
-    Joint work with Anne Broadbent and Arthur Mehta
+    Joint work with Anne Broadbent and Arthur Mehta, talk at Qcrypt 2023
 
 - Positivity is undecidable in tensor-product of free algebras (in preparation)\\
     Joint work with Arthur Mehta and William Slofstra
