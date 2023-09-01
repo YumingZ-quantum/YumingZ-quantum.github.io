@@ -14,6 +14,11 @@ I am a Ph.D. candidate in the [Institute for Quantum Computing](https://uwaterlo
 Research interests
 ======
 I am broadly interested in mathematics of quantum information and computation. Current interests include
+<ul>
+  <li>Non-local games, multi-prover interactive proofs with entanglement</li>
+  <li>Self-testing and applications in delegation of quantum computation</li>
+  <li>Operator algebras, approximate representation theory</li>
+</ul>
 - Non-local games, multi-prover interactive proofs with entanglement
 - Self-testing and applications in delegation of quantum computation and QKD
 - Operator algebras, approximate representation theory
@@ -21,10 +26,24 @@ I am broadly interested in mathematics of quantum information and computation. C
 
 Publications and preprints
 ======
+<ol>
+  <li><b>An operator-algebraic formulation of self-testing</b> ([arXiv](https://arxiv.org/abs/2301.11291))\\
+    Joint work with [Connor Paddock](https://www.connorpaddock.page/home), [William Slofstra](http://elliptic.space/), and Yangchen Zhou\\
+    To appear in <em>Annales Henri Poincaré</em>. Talk at QIP 2023 ([video](https://www.youtube.com/watch?v=QsFMjlEF7Wk))</li>
+  <li><b>Quantum delegation with an off-the-shelf device</b> ([arXiv](https://arxiv.org/abs/2304.03448))\\
+    Joint work with [Anne Broadbent](https://mysite.science.uottawa.ca/abroadbe/) and [Arthur Mehta](https://mysite.science.uottawa.ca/amehta2/)\\
+    Talk at Qcrypt 2023</li>
+  <li>Positivity is undecidable in tensor-product of free algebras</b> (in preparation)\\
+    Joint work with [Arthur Mehta](https://mysite.science.uottawa.ca/amehta2/) and [William Slofstra](http://elliptic.space/)</li>
+</ol>
+
+
+
+
 - <b>An operator-algebraic formulation of self-testing</b> ([arXiv](https://arxiv.org/abs/2301.11291))\\
     Joint work with [Connor Paddock](https://www.connorpaddock.page/home), [William Slofstra](http://elliptic.space/), and Yangchen Zhou\\
-    Talk at QIP 2023 ([video](https://www.youtube.com/watch?v=QsFMjlEF7Wk))\\
-    To appear in <em>Annales Henri Poincaré</em>
+    To appear in <em>Annales Henri Poincaré</em>. Talk at QIP 2023 ([video](https://www.youtube.com/watch?v=QsFMjlEF7Wk))\\
+    
 
 - <b>Quantum delegation with an off-the-shelf device</b> ([arXiv](https://arxiv.org/abs/2304.03448))\\
     Joint work with [Anne Broadbent](https://mysite.science.uottawa.ca/abroadbe/) and [Arthur Mehta](https://mysite.science.uottawa.ca/amehta2/)\\
