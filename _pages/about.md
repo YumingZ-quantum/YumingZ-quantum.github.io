@@ -30,27 +30,12 @@ Joint work with <a href="https://mysite.science.uottawa.ca/amehta2/">Arthur Meht
 
 <li><b>An operator-algebraic formulation of self-testing</b> [<a href="https://arxiv.org/abs/2301.11291">arXiv.2301.11291</a>]<br>
 Joint work with <a href="https://www.connorpaddock.page/home">Connor Paddock</a>, <a href="http://elliptic.space/">William Slofstra</a>, and Yangchen Zhou <br>
-To appear in <em>Annales Henri Poincaré</em>. Talk at QIP 2023 <a href="https://www.youtube.com/watch?v=QsFMjlEF7Wk">[video]</a> </li>
+To appear in <em>Annales Henri Poincaré</em>. Talk at <em>QIP 2023</em> <a href="https://www.youtube.com/watch?v=QsFMjlEF7Wk">[video]</a> </li>
 
 <li><b>Quantum delegation with an off-the-shelf device</b> [<a href="https://arxiv.org/abs/2304.03448">arXiv.2304.03448</a>]<br>
 Joint work with <a href="https://mysite.science.uottawa.ca/abroadbe/">Anne Broadbent</a> and <a href="https://mysite.science.uottawa.ca/amehta2/">Arthur Mehta</a><br>
-Talk at Qcrypt 2023</li>
+Talk at <em>Qcrypt 2023</em></li>
 </ol>
-
-
-
-
-- <b>An operator-algebraic formulation of self-testing</b> ([arXiv](https://arxiv.org/abs/2301.11291))\\
-    Joint work with [Connor Paddock](https://www.connorpaddock.page/home), [William Slofstra](http://elliptic.space/), and Yangchen Zhou\\
-    To appear in <em>Annales Henri Poincaré</em>. Talk at QIP 2023 ([video](https://www.youtube.com/watch?v=QsFMjlEF7Wk))\\
-    
-
-- <b>Quantum delegation with an off-the-shelf device</b> ([arXiv](https://arxiv.org/abs/2304.03448))\\
-    Joint work with [Anne Broadbent](https://mysite.science.uottawa.ca/abroadbe/) and [Arthur Mehta](https://mysite.science.uottawa.ca/amehta2/)\\
-    Talk at Qcrypt 2023
-
-- <b>Positivity is undecidable in tensor-product of free algebras</b> (in preparation)\\
-    Joint work with [Arthur Mehta](https://mysite.science.uottawa.ca/amehta2/) and [William Slofstra](http://elliptic.space/)
 
 
 Talks and presentations
