@@ -42,7 +42,16 @@ To appear in <em>Annales Henri Poincaré</em>. Talk at <em>QIP 2023</em> <a href
 
 Talks and presentations
 ======
-    
-  
+<b>Positivity and sum-of-squares in quantum information<b\>
+<em>Sep 21, 2023 <em\> Academy of Mathematics and System Sciences,
+Chinese Academy of Sciences, Beijing (virtual)   
+
+<b>Quantum delegation with an off-the-shelf device <b\>
+
+<b>An operator-algebraic formulation of self-testing <b\>
+
+<b>An introduction to quantum self-testing <b\>
+
+<b> <b\>
 
 
