@@ -48,9 +48,9 @@ Talks and presentations
 <li><b>Positivity and sum-of-squares in quantum information</b></li>
 <ol>
 <li><em>Sep 21, 2023 </em> Academy of Mathematics and System Sciences,
-Chinese Academy of Sciences, Beijing (virtual)</li>
+CAS, Beijing (virtual)</li>
 
-<li><em>Jul 21, 2023 </em> QuSoft Seminar, Centrum Wiskunde \& Informatica (CWI), Amsterdam, Netherlands</li>
+<li><em>Jul 21, 2023 </em> QuSoft Seminar, CWI, Amsterdam, Netherlands</li>
 
 <li><em>Sep 30, 2022 </em> PMATH Graduate Student Seminar, University of Waterloo</li>
 
@@ -64,43 +64,22 @@ Chinese Academy of Sciences, Beijing (virtual)</li>
 <li><em>May 16, 2023 </em> IQC Graduate Student Conference, University of Waterloo</li>
 </ol>
 
-<b>An operator-algebraic formulation of self-testing </b>
+<li><b>An operator-algebraic formulation of self-testing </b></li>
+<ol>
+<li><em>Jul 27, 2023 </em> Analytical and Combinatorial Methods in Quantum Information Theory II Workshop, ICMS, Edinburgh, UK </li>
 
-<em>Jul 27, 2023 </em> Analytical and Combinatorial Methods in Quantum Information Theory II Workshop, ICMS, Edinburgh, UK
+<li><em>Jul 12, 2023 </em> SIAM Applied Algebraic Geometry Conference, Eindhoven, Netherlands </li>
 
-<em>Jul 12, 2023 </em> SIAM Applied Algebraic Geometry Conference, Eindhoven, Netherlands
+<li><em>Mar 21, 2023 </em> Nonlocal Games Seminar, University of Copenhagen (virtual)      </li>
+<li><em>Mar 09, 2023 </em> PMATH Analysis Seminar, University of Waterloo       </li>
+<li><em>Feb 09, 2023 </em> Quantum Information Processing 2023, Ghent, Belgium      </li>
+<li><em>Dec 02, 2022 </em> Canadian Mathematical Society Winter Meeting, Toronto, Canada      </li>
+</ol>
 
-<em> </em>
-
-<em> </em>
-
-<em> </em>
-
-<em> </em>
-
-<em> </em>
-
-<em> </em>
-
-<em> </em>
-
-<em> </em>
-
-<em> </em>
-
-<em> </em>
-
-
-<em> </em>
-
-<em> </em>
-
-<em> </em>
-
-
-
-<b>An introduction to quantum self-testing <b\>
-
+<li><b>An introduction to quantum self-testing <b\></li>
+<ol>
+<li><em>Jun 02, 2023 </em> 3-hour tutorial at the Canadian Mathematical Society Summer Meeting, Ottawa       </li>
+</ol>
 
 </ul>
 
