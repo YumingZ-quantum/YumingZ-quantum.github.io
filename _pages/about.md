@@ -46,7 +46,7 @@ Talks and presentations
 <ul>
 
 <li><b>Positivity and sum-of-squares in quantum information</b></li>
-</ol>
+<ol>
 <li><em>Sep 21, 2023 </em> Academy of Mathematics and System Sciences,
 Chinese Academy of Sciences, Beijing (virtual)</li>
 
