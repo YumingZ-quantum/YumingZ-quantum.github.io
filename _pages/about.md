@@ -50,6 +50,8 @@ Talks and presentations
 <li><em>Sep 21, 2023 </em> Academy of Mathematics and System Sciences,
 CAS, Beijing (virtual)</li>
 
+<li><em>Aug 09, 2023 </em> IQC Student Seminar, University of Waterloo</li>
+
 <li><em>Jul 21, 2023 </em> QuSoft Seminar, CWI, Amsterdam, Netherlands</li>
 
 <li><em>Sep 30, 2022 </em> PMATH Graduate Student Seminar, University of Waterloo</li>
