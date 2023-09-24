@@ -76,7 +76,7 @@ CAS, Beijing (virtual)</li>
 <li><em>Dec 02, 2022 </em> Canadian Mathematical Society Winter Meeting, Toronto, Canada      </li>
 </ol>
 
-<li><b>An introduction to quantum self-testing <b\></li>
+<li><b>An introduction to quantum self-testing </b></li>
 <ol>
 <li><em>Jun 02, 2023 </em> 3-hour tutorial at the Canadian Mathematical Society Summer Meeting, Ottawa       </li>
 </ol>
