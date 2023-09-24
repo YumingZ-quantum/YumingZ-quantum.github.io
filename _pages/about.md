@@ -42,16 +42,65 @@ To appear in <em>Annales Henri Poincaré</em>. Talk at <em>QIP 2023</em> <a href
 
 Talks and presentations
 ======
-<b>Positivity and sum-of-squares in quantum information</b>
-<em>Sep 21, 2023 </em> Academy of Mathematics and System Sciences,
-Chinese Academy of Sciences, Beijing (virtual)   
 
-<b>Quantum delegation with an off-the-shelf device </b>
+<ul>
+
+<li><b>Positivity and sum-of-squares in quantum information</b></li>
+</ol>
+<li><em>Sep 21, 2023 </em> Academy of Mathematics and System Sciences,
+Chinese Academy of Sciences, Beijing (virtual)</li>
+
+<li><em>Jul 21, 2023 </em> QuSoft Seminar, Centrum Wiskunde \& Informatica (CWI), Amsterdam, Netherlands</li>
+
+<li><em>Sep 30, 2022 </em> PMATH Graduate Student Seminar, University of Waterloo</li>
+
+<li><em>Mar 18, 2022 </em> Quantum Cryptography Seminar, University of Ottawa (virtual)</li>
+</ol>
+
+<li><b>Quantum delegation with an off-the-shelf device </b></li>
+<ol>
+<li><em>Jun 22, 2023 </em> IQC CS/MATH Seminar, University of Waterloo</li>
+
+<li><em>May 16, 2023 </em> IQC Graduate Student Conference, University of Waterloo</li>
+</ol>
 
 <b>An operator-algebraic formulation of self-testing </b>
+
+<em>Jul 27, 2023 </em> Analytical and Combinatorial Methods in Quantum Information Theory II Workshop, ICMS, Edinburgh, UK
+
+<em>Jul 12, 2023 </em> SIAM Applied Algebraic Geometry Conference, Eindhoven, Netherlands
+
+<em> </em>
+
+<em> </em>
+
+<em> </em>
+
+<em> </em>
+
+<em> </em>
+
+<em> </em>
+
+<em> </em>
+
+<em> </em>
+
+<em> </em>
+
+<em> </em>
+
+
+<em> </em>
+
+<em> </em>
+
+<em> </em>
+
+
 
 <b>An introduction to quantum self-testing <b\>
 
 
-
+</ul>
 
