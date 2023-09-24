@@ -26,7 +26,11 @@ Publications and preprints
 ======
 <ol>
 <li><b>Positivity is undecidable in tensor-product of free algebras</b> (in preparation)<br>
-Joint work with <a href="https://mysite.science.uottawa.ca/amehta2/">Arthur Mehta</a> and <a href="http://elliptic.space/">William Slofstra</a>  </li> 
+Joint work with <a href="https://mysite.science.uottawa.ca/amehta2/">Arthur Mehta</a> and <a href="http://elliptic.space/">William Slofstra</a>  </li>
+
+<li><b>Postselection technique for optical QKD with improved de Finetti theorems</b> (in preparation)<br>
+Joint work with <a href="https://scholar.google.com/citations?user=u3wtiyUAAAAJ&hl=en">Shlok Nahar</a>, <a href="https://scholar.google.ca/citations?user=QwOgOgUAAAAJ&hl=en">Devashish Tupkary</a>, <a href="https://uwaterloo.ca/institute-for-quantum-computing/profiles/norbert-lutkenhaus">Norbert Lütkenhaus</a>, and <a href="https://scholar.google.com/citations?user=c9S6cgIAAAAJ&hl=en">Ernest Y.-Z. Tan</a><br>
+Poster at <em>Qcrypt 2023</em></li>
 
 <li><b>Quantum delegation with an off-the-shelf device</b> [<a href="https://arxiv.org/abs/2304.03448">arXiv.2304.03448</a>]<br>
 Joint work with <a href="https://mysite.science.uottawa.ca/abroadbe/">Anne Broadbent</a> and <a href="https://mysite.science.uottawa.ca/amehta2/">Arthur Mehta</a><br>
