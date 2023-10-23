@@ -38,7 +38,7 @@ Talk at <em>Qcrypt 2023</em></li>
 
 <li><b>An operator-algebraic formulation of self-testing</b> [<a href="https://arxiv.org/abs/2301.11291">arXiv.2301.11291</a>]<br>
 Joint work with <a href="https://www.connorpaddock.page/home">Connor Paddock</a>, <a href="http://elliptic.space/">William Slofstra</a>, and Yangchen Zhou <br>
-To appear in <em>Annales Henri Poincaré</em>. Talk at <em>QIP 2023</em> <a href="https://www.youtube.com/watch?v=QsFMjlEF7Wk">[video]</a> </li>
+Published in <a href="https://doi.org/10.1007/s00023-023-01378-y"><em>Annales Henri Poincaré</em></a>. Talk at <em>QIP 2023</em> <a href="https://www.youtube.com/watch?v=QsFMjlEF7Wk">[video]</a> </li>
 
 
 </ol>
@@ -84,7 +84,8 @@ CAS, Beijing (virtual)</li>
 
 <li><b>An introduction to quantum self-testing </b></li>
 <ol>
-<li><em>Jun 02, 2023 </em> 3-hour tutorial at the Canadian Mathematical Society Summer Meeting, Ottawa       </li>
+<li><em>Jun 02, 2023 </em> Tutorial talk at the Canadian Mathematical Society Summer Meeting, Ottawa     </li>
+<li><em>Oct 16, 2023 </em> SLMath workshop: MIP* = RE and the Connes’ Embedding Problem, Berkeley, CA     </li>
 </ol>
 
 </ul>
