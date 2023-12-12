@@ -25,12 +25,15 @@ I am broadly interested in mathematics of quantum information and computation. C
 Publications and preprints
 ======
 <ol>
-<li><b>Positivity is undecidable in tensor-product of free algebras</b> (in preparation)<br>
-Joint work with <a href="https://mysite.science.uottawa.ca/amehta2/">Arthur Mehta</a> and <a href="http://elliptic.space/">William Slofstra</a>  </li>
 
 <li><b>Postselection technique for optical QKD with improved de Finetti theorems</b> (in preparation)<br>
 Joint work with <a href="https://scholar.google.com/citations?user=u3wtiyUAAAAJ&hl=en">Shlok Nahar</a>, <a href="https://scholar.google.ca/citations?user=QwOgOgUAAAAJ&hl=en">Devashish Tupkary</a>, <a href="https://uwaterloo.ca/institute-for-quantum-computing/profiles/norbert-lutkenhaus">Norbert Lütkenhaus</a>, and <a href="https://scholar.google.com/citations?user=c9S6cgIAAAAJ&hl=en">Ernest Y.-Z. Tan</a><br>
 Poster at <em>Qcrypt 2023</em></li>
+
+<li><b>Positivity is undecidable in tensor-product of free algebras</b> [<a href="https://arxiv.org/abs/2312.05617">arXiv.2312.05617</a>]<br>
+Joint work with <a href="https://mysite.science.uottawa.ca/amehta2/">Arthur Mehta</a> and <a href="http://elliptic.space/">William Slofstra</a>  </li>
+
+
 
 <li><b>Quantum delegation with an off-the-shelf device</b> [<a href="https://arxiv.org/abs/2304.03448">arXiv.2304.03448</a>]<br>
 Joint work with <a href="https://mysite.science.uottawa.ca/abroadbe/">Anne Broadbent</a> and <a href="https://mysite.science.uottawa.ca/amehta2/">Arthur Mehta</a><br>
@@ -51,6 +54,11 @@ Talks and presentations
 
 <li><b>Positivity and sum-of-squares in quantum information</b></li>
 <ol>
+
+<li><em>Nov 28, 2023 </em> Math Seminar, Zhejinag Univesity, Hangzhou (virtual)</li>
+
+<li><em>Nov 23, 2023 </em> PMath Analysis Seminar, University of Waterloo</li>
+
 <li><em>Sep 21, 2023 </em> Academy of Mathematics and System Sciences,
 CAS, Beijing (virtual)</li>
 
@@ -84,8 +92,11 @@ CAS, Beijing (virtual)</li>
 
 <li><b>An introduction to quantum self-testing </b></li>
 <ol>
-<li><em>Jun 02, 2023 </em> Tutorial talk at the Canadian Mathematical Society Summer Meeting, Ottawa     </li>
+
 <li><em>Oct 16, 2023 </em> SLMath workshop: MIP* = RE and the Connes’ Embedding Problem, Berkeley, CA     </li>
+
+<li><em>Jun 02, 2023 </em> Tutorial talk at the Canadian Mathematical Society Summer Meeting, Ottawa     </li>
+
 </ol>
 
 </ul>
