@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<b> I will begin a postdoc position in the [Centre for the Mathematics of Quantum Theory](https://qmath.ku.dk/) at the University of Copenhagen starting this Fall!</b>
-
-I am a Ph.D. candidate in the [Institute for Quantum Computing](https://uwaterloo.ca/institute-for-quantum-computing/) and [Department of Pure Mathematics](https://uwaterloo.ca/pure-mathematics/) at the [University of Waterloo](https://uwaterloo.ca/), supervised by [William Slofstra](http://elliptic.space/). Previously, I received my bachelor degree in Mathematics and Applied Mathematics from [Zhejiang University](https://www.zju.edu.cn/english/) in 2019, under the supervision of [Junde Wu](https://person.zju.edu.cn/en/wujunde). I also spent a semester at [Rice University](https://www.rice.edu/) as an undergraduate exchange student (2017).
+I am a postdoc at the [Centre for the Mathematics of Quantum Theory](https://qmath.ku.dk/), [University of Copenhagen](https://www.ku.dk/english/), hosted by [Laura Mančinska](https://research.ku.dk/search/result/profile/?id=604782). I reveived my Ph.D. in 2024 from the [Institute for Quantum Computing](https://uwaterloo.ca/institute-for-quantum-computing/) and [Department of Pure Mathematics](https://uwaterloo.ca/pure-mathematics/) at the [University of Waterloo](https://uwaterloo.ca/), where I was supervised by [William Slofstra](http://elliptic.space/). Before that, I received my bachelor degree in Mathematics and Applied Mathematics from [Zhejiang University](https://www.zju.edu.cn/english/) in 2019, under the supervision of [Junde Wu](https://person.zju.edu.cn/en/wujunde). I also spent a semester at [Rice University](https://www.rice.edu/) as an undergraduate exchange student (2017).
 
 
 Research interests
@@ -30,7 +28,7 @@ Publications and preprints
 
 <li><b>Postselection technique for optical QKD with improved de Finetti theorems</b> [<a href="https://arxiv.org/abs/2403.11851">arXiv.2403.11851</a>] <br>
 Joint work with <a href="https://scholar.google.com/citations?user=u3wtiyUAAAAJ&hl=en">Shlok Nahar</a>, <a href="https://scholar.google.ca/citations?user=QwOgOgUAAAAJ&hl=en">Devashish Tupkary</a>, <a href="https://uwaterloo.ca/institute-for-quantum-computing/profiles/norbert-lutkenhaus">Norbert Lütkenhaus</a>, and <a href="https://scholar.google.com/citations?user=c9S6cgIAAAAJ&hl=en">Ernest Y.-Z. Tan</a><br>
-Poster at <em>Qcrypt 2023</em></li>
+Talk at <em>Qcrypt 2024</em></li>
 
 <li><b>Positivity is undecidable in tensor-product of free algebras</b> [<a href="https://arxiv.org/abs/2312.05617">arXiv.2312.05617</a>]<br>
 Joint work with <a href="https://mysite.science.uottawa.ca/amehta2/">Arthur Mehta</a> and <a href="http://elliptic.space/">William Slofstra</a>  </li>
@@ -39,7 +37,7 @@ Joint work with <a href="https://mysite.science.uottawa.ca/amehta2/">Arthur Meht
 
 <li><b>Quantum delegation with an off-the-shelf device</b> [<a href="https://arxiv.org/abs/2304.03448">arXiv.2304.03448</a>]<br>
 Joint work with <a href="https://mysite.science.uottawa.ca/abroadbe/">Anne Broadbent</a> and <a href="https://mysite.science.uottawa.ca/amehta2/">Arthur Mehta</a><br>
-Talk at <em>Qcrypt 2023</em> <a href="https://www.youtube.com/watch?v=NjpF5lOewhc   ">[video]</a>  </li>
+Talk at <em>Qcrypt 2023</em> <a href="https://www.youtube.com/watch?v=NjpF5lOewhc   ">[video]</a>. Talk at <em>TQC 2024<em> </li>
 
 <li><b>An operator-algebraic formulation of self-testing</b> [<a href="https://arxiv.org/abs/2301.11291">arXiv.2301.11291</a>]<br>
 Joint work with <a href="https://www.connorpaddock.page/home">Connor Paddock</a>, <a href="http://elliptic.space/">William Slofstra</a>, and Yangchen Zhou <br>
