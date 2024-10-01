@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<b> I will begin a postdoc position in the [Centre for the Mathematics of Quantum Theory](https://qmath.ku.dk/) at the University of Copenhagen starting this Fall!</b>
+
 I am a Ph.D. candidate in the [Institute for Quantum Computing](https://uwaterloo.ca/institute-for-quantum-computing/) and [Department of Pure Mathematics](https://uwaterloo.ca/pure-mathematics/) at the [University of Waterloo](https://uwaterloo.ca/), supervised by [William Slofstra](http://elliptic.space/). Previously, I received my bachelor degree in Mathematics and Applied Mathematics from [Zhejiang University](https://www.zju.edu.cn/english/) in 2019, under the supervision of [Junde Wu](https://person.zju.edu.cn/en/wujunde). I also spent a semester at [Rice University](https://www.rice.edu/) as an undergraduate exchange student (2017).
 
 
@@ -26,7 +28,7 @@ Publications and preprints
 ======
 <ol>
 
-<li><b>Postselection technique for optical QKD with improved de Finetti theorems</b> (in preparation)<br>
+<li><b>Postselection technique for optical QKD with improved de Finetti theorems</b> [<a href="https://arxiv.org/abs/2403.11851">arXiv.2403.11851</a>] <br>
 Joint work with <a href="https://scholar.google.com/citations?user=u3wtiyUAAAAJ&hl=en">Shlok Nahar</a>, <a href="https://scholar.google.ca/citations?user=QwOgOgUAAAAJ&hl=en">Devashish Tupkary</a>, <a href="https://uwaterloo.ca/institute-for-quantum-computing/profiles/norbert-lutkenhaus">Norbert Lütkenhaus</a>, and <a href="https://scholar.google.com/citations?user=c9S6cgIAAAAJ&hl=en">Ernest Y.-Z. Tan</a><br>
 Poster at <em>Qcrypt 2023</em></li>
 
@@ -52,8 +54,21 @@ Talks and presentations
 
 <ul>
 
-<li><b>Positivity and sum-of-squares in quantum information</b></li>
+<li><b>Positivity, sum of squares, and decision problems in quantum information</b></li>
 <ol>
+
+<li><em>Mar 05, 2024 </em> Nonlocal Games Seminar, University of Copenhagen (virtual) </li>
+
+<li><em>Jan 25, 2024 </em> Institute for Theoretical Physics, University of Innsbruck, Austria (virtual) </li>
+
+<li><em>Jan 11, 2024 </em> QICI, Hong Kong University, Hong Kong </li>
+
+<li><em>Jan 03, 2024 </em> TCS seminar, Nanjing University, Nanjing </li>
+
+<li><em>Dec 22, 2023 </em> Computer science seminar, Tsinghua University, Beijing </li>
+
+<li><em>Dec 20, 2023 </em> Academy of Mathematics and System Sciences,
+CAS, Beijing</li>
 
 <li><em>Nov 28, 2023 </em> Math Seminar, Zhejinag Univesity, Hangzhou (virtual)</li>
 
