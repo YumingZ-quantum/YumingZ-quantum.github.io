@@ -31,18 +31,18 @@ Joint work with <a href="https://scholar.google.com/citations?user=u3wtiyUAAAAJ&
 Talk at <em>Qcrypt 2024</em>. To appear in <em>PRX Quantum<em></li>
 
 <li><b>Positivity is undecidable in tensor-product of free algebras</b> [<a href="https://arxiv.org/abs/2312.05617">arXiv.2312.05617</a>]<br>
-Joint work with <a href="https://mysite.science.uottawa.ca/amehta2/">Arthur Mehta</a> and <a href="http://elliptic.space/">William Slofstra</a>  </li>
+Joint work with <a href="https://mysite.science.uottawa.ca/amehta2/">Arthur Mehta</a> and <a href="http://elliptic.space/">William Slofstra</a>  
 
 
 
 <li><b>Quantum delegation with an off-the-shelf device</b> [<a href="https://arxiv.org/abs/2304.03448">arXiv.2304.03448</a>]<br>
 Joint work with <a href="https://mysite.science.uottawa.ca/abroadbe/">Anne Broadbent</a> and <a href="https://mysite.science.uottawa.ca/amehta2/">Arthur Mehta</a><br>
-Talk at <em>Qcrypt 2023</em> <a href="https://www.youtube.com/watch?v=NjpF5lOewhc   ">[video]</a>. Talk at <em>TQC 2024<em> </li>
+Talk at <em>Qcrypt 2023</em> <a href="https://www.youtube.com/watch?v=NjpF5lOewhc   ">[video]</a>. Talk at <em>TQC 2024<em> 
 
 <li><b>An operator-algebraic formulation of self-testing</b> [<a href="https://arxiv.org/abs/2301.11291">arXiv.2301.11291</a>]<br>
 Joint work with <a href="https://www.connorpaddock.page/home">Connor Paddock</a>, <a href="http://elliptic.space/">William Slofstra</a>, and Yangchen Zhou <br>
-Published in <a href="https://doi.org/10.1007/s00023-023-01378-y"><em>Annales Henri Poincaré</em></a>. Talk at <em>QIP 2023</em> <a href="https://www.youtube.com/watch?v=QsFMjlEF7Wk">[video]</a> </li>
-</ol>
+Published in <a href="https://doi.org/10.1007/s00023-023-01378-y"><em>Annales Henri Poincaré</em></a>. Talk at <em>QIP 2023</em> <a href="https://www.youtube.com/watch?v=QsFMjlEF7Wk">[video]</a> 
+
 
 
 Talks and presentations
