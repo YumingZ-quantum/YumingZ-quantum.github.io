@@ -23,13 +23,17 @@ I am broadly interested in the mathematics of quantum information and computatio
 <h2>Publications and Preprints</h2>
 <ol>
   <li>
+    <b>Robust self-testing for nonlocal games with robust game algebras</b> 
+  </li>
+
+  <li>
     <b>Postselection technique for optical QKD with improved de Finetti theorems</b> 
     [<a href="https://arxiv.org/abs/2403.11851">arXiv.2403.11851</a>]<br>
     Joint work with <a href="https://scholar.google.com/citations?user=u3wtiyUAAAAJ&hl=en">Shlok Nahar</a>, 
     <a href="https://scholar.google.ca/citations?user=QwOgOgUAAAAJ&hl=en">Devashish Tupkary</a>, 
     <a href="https://uwaterloo.ca/institute-for-quantum-computing/profiles/norbert-lutkenhaus">Norbert Lütkenhaus</a>, and 
     <a href="https://scholar.google.com/citations?user=c9S6cgIAAAAJ&hl=en">Ernest Y.-Z. Tan</a><br>
-    Talk at <em>Qcrypt 2024</em>. To appear in <em>PRX Quantum</em>
+    Published in <a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.040315">PRX Quantum</a> Talk at <em>Qcrypt 2024</em>.
   </li>
 
   <li>
