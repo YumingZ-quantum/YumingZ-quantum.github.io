@@ -48,7 +48,7 @@ I am broadly interested in the mathematics of quantum information and computatio
     <b>Quantum delegation with an off-the-shelf device</b> <br>
     Joint work with <a href="https://mysite.science.uottawa.ca/abroadbe/">Anne Broadbent</a> and 
     <a href="https://mysite.science.uottawa.ca/amehta2/">Arthur Mehta</a><br>
-    Talk at <em>Qcrypt 2023</em> <a href="https://www.youtube.com/watch?v=NjpF5lOewhc">[video]</a>. Talk at <em>TQC 2024</em><a href="https://www.youtube.com/watch?v=MrZmdcxUxP0&t=3555s">[video]</a>. <a href="https://arxiv.org/abs/2304.03448">arXiv.2304.03448</a>
+    Talk at <em>Qcrypt 2023</em> <a href="https://www.youtube.com/watch?v=NjpF5lOewhc">[video]</a>. Talk at <em>TQC 2024</em> <a href="https://www.youtube.com/watch?v=MrZmdcxUxP0&t=3555s">[video]</a>. <a href="https://arxiv.org/abs/2304.03448">arXiv.2304.03448</a>
   </li>
 
   <li>
