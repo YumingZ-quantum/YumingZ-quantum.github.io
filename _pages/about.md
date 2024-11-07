@@ -62,6 +62,11 @@ I am broadly interested in the mathematics of quantum information and computatio
 
 <h2>Talks and Presentations</h2>
 <ul>
+  <li><b>Robust self-testing for games with nice algebras</b></li>
+  <ol>
+    <li><em>Nov 06, 2024</em>  Academy of Mathematics and System Sciences, CAS, Beijing (virtual)</li>
+  </ol>
+
   <li><b>Positivity, sum of squares, and decision problems in quantum information</b></li>
   <ol>
     <li><em>Mar 05, 2024</em> Nonlocal Games Seminar, University of Copenhagen (virtual)</li>
@@ -81,7 +86,7 @@ I am broadly interested in the mathematics of quantum information and computatio
 
   <li><b>Quantum delegation with an off-the-shelf device</b></li>
   <ol>
-    <li><em>Sep 12. 2024</em> TQC, Okinawa, Japan</li>
+    <li><em>Sep 12, 2024</em> TQC, Okinawa, Japan</li>
     <li><em>Jun 22, 2023</em> IQC CS/MATH Seminar, University of Waterloo</li>
     <li><em>May 16, 2023</em> IQC Graduate Student Conference, University of Waterloo</li>
   </ol>
