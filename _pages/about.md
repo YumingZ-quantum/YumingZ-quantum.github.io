@@ -62,6 +62,10 @@ I am broadly interested in the mathematics of quantum information and computatio
 
 <h2>Talks and Presentations</h2>
 <ul>
+  <li><b>Testing anti-commuting relations: from stability of groups to stability of algebras </b></li>
+  <ol>
+    <li><em>Dec 18, 2024</em>  Academy of Mathematics and System Sciences, CAS, Beijing</li>
+  </ol>
   <li><b>Robust self-testing for games with nice algebras</b></li>
   <ol>
     <li><em>Nov 06, 2024</em>  Academy of Mathematics and System Sciences, CAS, Beijing (virtual)</li>
@@ -69,6 +73,7 @@ I am broadly interested in the mathematics of quantum information and computatio
 
   <li><b>Positivity, sum of squares, and decision problems in quantum information</b></li>
   <ol>
+  <li><em>Dec 24, 2024</em> School of Mathematical Sciences, Nanjing University</li>
     <li><em>Mar 05, 2024</em> Nonlocal Games Seminar, University of Copenhagen (virtual)</li>
     <li><em>Jan 25, 2024</em> Institute for Theoretical Physics, University of Innsbruck, Austria (virtual)</li>
     <li><em>Jan 11, 2024</em> QICI, Hong Kong University, Hong Kong</li>
