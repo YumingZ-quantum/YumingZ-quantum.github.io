@@ -62,8 +62,15 @@ I am broadly interested in the mathematics of quantum information and computatio
 
 <h2>Talks and Presentations</h2>
 <ul>
-  <li><b>Testing anti-commuting relations: from stability of groups to stability of algebras </b></li>
+  <li><b>Arithmetical hirerachy in operator algebras and quantum information </b></li>
   <ol>
+  <li><em>Apr 04, 2025</em>  QLunch, University of Copenhagen</li>
+  <li><em>Dec 20, 2023</em> Academy of Mathematics and System Sciences, CAS, Beijing</li>
+  </ol>
+  <li><b>Stability of anti-commutation relation: from groups to algebras </b></li>
+  <ol>
+  <li><em>Apr 01, 2025</em>  Nonlocal Games Seminar, University of Copenhagen</li>
+  <li><em>Mar 24, 2025</em>  Nonlocal Games Seminar, University of Copenhagen</li>
     <li><em>Dec 18, 2024</em>  Academy of Mathematics and System Sciences, CAS, Beijing</li>
   </ol>
   <li><b>Robust self-testing for games with nice algebras</b></li>
@@ -73,13 +80,13 @@ I am broadly interested in the mathematics of quantum information and computatio
 
   <li><b>Positivity, sum of squares, and decision problems in quantum information</b></li>
   <ol>
+  <li><em>Mar 19, 2025</em> Quantum Information Seminar, Ruhr University Bochum, Germany</li>
   <li><em>Dec 24, 2024</em> School of Mathematical Sciences, Nanjing University</li>
     <li><em>Mar 05, 2024</em> Nonlocal Games Seminar, University of Copenhagen (virtual)</li>
     <li><em>Jan 25, 2024</em> Institute for Theoretical Physics, University of Innsbruck, Austria (virtual)</li>
     <li><em>Jan 11, 2024</em> QICI, Hong Kong University, Hong Kong</li>
     <li><em>Jan 03, 2024</em> TCS seminar, Nanjing University, Nanjing</li>
     <li><em>Dec 22, 2023</em> Computer Science Seminar, Tsinghua University, Beijing</li>
-    <li><em>Dec 20, 2023</em> Academy of Mathematics and System Sciences, CAS, Beijing</li>
     <li><em>Nov 28, 2023</em> Math Seminar, Zhejiang University, Hangzhou (virtual)</li>
     <li><em>Nov 23, 2023</em> PMath Analysis Seminar, University of Waterloo</li>
     <li><em>Sep 21, 2023</em> Academy of Mathematics and System Sciences, CAS, Beijing (virtual)</li>
