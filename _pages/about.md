@@ -62,7 +62,7 @@ I am broadly interested in the mathematics of quantum information and computatio
 
 <h2>Talks and Presentations</h2>
 <ul>
-  <li><b>Arithmetical hirerachy in operator algebras and quantum information </b></li>
+  <li><b>Arithmetical hierarchy in operator algebras and quantum information </b></li>
   <ol>
   <li><em>Apr 04, 2025</em>  QLunch, University of Copenhagen</li>
   <li><em>Dec 20, 2023</em> Academy of Mathematics and System Sciences, CAS, Beijing</li>
