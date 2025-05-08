@@ -64,6 +64,7 @@ I am broadly interested in the mathematics of quantum information and computatio
 <ul>
   <li><b>Arithmetical hierarchy in operator algebras and quantum information </b></li>
   <ol>
+  <li><em>Apr 28, 2025</em>  INRIA Saclay, Paris</li>
   <li><em>Apr 04, 2025</em>  QLunch, University of Copenhagen</li>
   <li><em>Dec 20, 2023</em> Academy of Mathematics and System Sciences, CAS, Beijing</li>
   </ol>
@@ -80,6 +81,7 @@ I am broadly interested in the mathematics of quantum information and computatio
 
   <li><b>Positivity, sum of squares, and decision problems in quantum information</b></li>
   <ol>
+  <li><em>May 08, 2025</em> Analysis seminar, TU Delft</li>
   <li><em>Mar 19, 2025</em> Quantum Information Seminar, Ruhr University Bochum, Germany</li>
   <li><em>Dec 24, 2024</em> School of Mathematical Sciences, Nanjing University</li>
     <li><em>Mar 05, 2024</em> Nonlocal Games Seminar, University of Copenhagen (virtual)</li>
