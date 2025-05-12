@@ -22,6 +22,13 @@ I am broadly interested in the mathematics of quantum information and computatio
 
 <h2>Publications and Preprints</h2>
 <ol>
+
+  <li>
+    <b>Lifting the maximally-entangledness assumption in robust self-testing for synchronous games</b><br> 
+  With <a href="https://fa.ewi.tudelft.nl/~mvernooij/index.html">Matthijs Vernooij</a><br>
+    <a href="https://arxiv.org/abs/2505.05994">arXiv.2505.05994</a>
+     
+  </li>
   <li>
     <b>Robust self-testing for nonlocal games with robust game algebras</b><br> 
     <a href="https://arxiv.org/abs/2411.03259">arXiv.2411.03259</a>
@@ -30,7 +37,7 @@ I am broadly interested in the mathematics of quantum information and computatio
 
   <li>
     <b>Postselection technique for optical QKD with improved de Finetti theorems</b><br>
-    Joint work with <a href="https://scholar.google.com/citations?user=u3wtiyUAAAAJ&hl=en">Shlok Nahar</a>, 
+    With <a href="https://scholar.google.com/citations?user=u3wtiyUAAAAJ&hl=en">Shlok Nahar</a>, 
     <a href="https://scholar.google.ca/citations?user=QwOgOgUAAAAJ&hl=en">Devashish Tupkary</a>, 
     <a href="https://uwaterloo.ca/institute-for-quantum-computing/profiles/norbert-lutkenhaus">Norbert Lütkenhaus</a>, and 
     <a href="https://scholar.google.com/citations?user=c9S6cgIAAAAJ&hl=en">Ernest Y.-Z. Tan</a><br>
@@ -39,21 +46,21 @@ I am broadly interested in the mathematics of quantum information and computatio
 
   <li>
     <b>Positivity is undecidable in tensor-product of free algebras</b> <br>
-    Joint work with <a href="https://mysite.science.uottawa.ca/amehta2/">Arthur Mehta</a> and 
+    With <a href="https://mysite.science.uottawa.ca/amehta2/">Arthur Mehta</a> and 
     <a href="http://elliptic.space/">William Slofstra</a><br>
     <a href="https://arxiv.org/abs/2312.05617">arXiv.2312.05617</a>
   </li>
 
   <li>
     <b>Quantum delegation with an off-the-shelf device</b> <br>
-    Joint work with <a href="https://mysite.science.uottawa.ca/abroadbe/">Anne Broadbent</a> and 
+    With <a href="https://mysite.science.uottawa.ca/abroadbe/">Anne Broadbent</a> and 
     <a href="https://mysite.science.uottawa.ca/amehta2/">Arthur Mehta</a><br>
     Talk at <em>Qcrypt 2023</em> <a href="https://www.youtube.com/watch?v=NjpF5lOewhc">[video]</a>. Talk at <em>TQC 2024</em> <a href="https://www.youtube.com/watch?v=MrZmdcxUxP0&t=3555s">[video]</a>. <a href="https://arxiv.org/abs/2304.03448">arXiv.2304.03448</a>
   </li>
 
   <li>
     <b>An operator-algebraic formulation of self-testing</b> <br>
-    Joint work with <a href="https://www.connorpaddock.page/home">Connor Paddock</a>, 
+    With <a href="https://www.connorpaddock.page/home">Connor Paddock</a>, 
     <a href="http://elliptic.space/">William Slofstra</a>, and Yangchen Zhou<br>
     Published in <a href="https://doi.org/10.1007/s00023-023-01378-y"><em>Annales Henri Poincaré</em></a>. 
     Talk at <em>QIP 2023</em> <a href="https://www.youtube.com/watch?v=QsFMjlEF7Wk">[video]</a>. <a href="https://arxiv.org/abs/2301.11291">arXiv.2301.11291</a>
