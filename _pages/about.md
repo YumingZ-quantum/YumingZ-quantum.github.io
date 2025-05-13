@@ -26,12 +26,12 @@ I am broadly interested in the mathematics of quantum information and computatio
   <li>
     <b>Lifting the maximally-entangledness assumption in robust self-testing for synchronous games</b><br> 
   With <a href="https://fa.ewi.tudelft.nl/~mvernooij/index.html">Matthijs Vernooij</a><br>
-    <a href="https://arxiv.org/abs/2505.05994">arXiv.2505.05994</a>
+    Preprint: <a href="https://arxiv.org/abs/2505.05994">arXiv.2505.05994</a>
      
   </li>
   <li>
     <b>Robust self-testing for nonlocal games with robust game algebras</b><br> 
-    <a href="https://arxiv.org/abs/2411.03259">arXiv.2411.03259</a>
+    Preprint: <a href="https://arxiv.org/abs/2411.03259">arXiv.2411.03259</a>
      
   </li>
 
@@ -48,14 +48,14 @@ I am broadly interested in the mathematics of quantum information and computatio
     <b>Positivity is undecidable in tensor-product of free algebras</b> <br>
     With <a href="https://mysite.science.uottawa.ca/amehta2/">Arthur Mehta</a> and 
     <a href="http://elliptic.space/">William Slofstra</a><br>
-    <a href="https://arxiv.org/abs/2312.05617">arXiv.2312.05617</a>
+    Preprint: <a href="https://arxiv.org/abs/2312.05617">arXiv.2312.05617</a>
   </li>
 
   <li>
     <b>Quantum delegation with an off-the-shelf device</b> <br>
     With <a href="https://mysite.science.uottawa.ca/abroadbe/">Anne Broadbent</a> and 
     <a href="https://mysite.science.uottawa.ca/amehta2/">Arthur Mehta</a><br>
-    Talk at <em>Qcrypt 2023</em> <a href="https://www.youtube.com/watch?v=NjpF5lOewhc">[video]</a>. Talk at <em>TQC 2024</em> <a href="https://www.youtube.com/watch?v=MrZmdcxUxP0&t=3555s">[video]</a>. <a href="https://arxiv.org/abs/2304.03448">arXiv.2304.03448</a>
+  Published in <a href="https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.TQC.2024.12"><em>Leibniz International Proceedings in Informatics (LIPIcs)</em></a>.  Talk at <em>Qcrypt 2023</em> <a href="https://www.youtube.com/watch?v=NjpF5lOewhc">[video]</a>. Talk at <em>TQC 2024</em> <a href="https://www.youtube.com/watch?v=MrZmdcxUxP0&t=3555s">[video]</a>.
   </li>
 
   <li>
@@ -63,7 +63,7 @@ I am broadly interested in the mathematics of quantum information and computatio
     With <a href="https://www.connorpaddock.page/home">Connor Paddock</a>, 
     <a href="http://elliptic.space/">William Slofstra</a>, and Yangchen Zhou<br>
     Published in <a href="https://doi.org/10.1007/s00023-023-01378-y"><em>Annales Henri Poincaré</em></a>. 
-    Talk at <em>QIP 2023</em> <a href="https://www.youtube.com/watch?v=QsFMjlEF7Wk">[video]</a>. <a href="https://arxiv.org/abs/2301.11291">arXiv.2301.11291</a>
+    Talk at <em>QIP 2023</em> <a href="https://www.youtube.com/watch?v=QsFMjlEF7Wk">[video]</a>.
   </li>
 </ol>
 
