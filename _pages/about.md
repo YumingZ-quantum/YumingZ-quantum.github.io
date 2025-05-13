@@ -41,7 +41,7 @@ I am broadly interested in the mathematics of quantum information and computatio
     <a href="https://scholar.google.ca/citations?user=QwOgOgUAAAAJ&hl=en">Devashish Tupkary</a>, 
     <a href="https://uwaterloo.ca/institute-for-quantum-computing/profiles/norbert-lutkenhaus">Norbert Lütkenhaus</a>, and 
     <a href="https://scholar.google.com/citations?user=c9S6cgIAAAAJ&hl=en">Ernest Y.-Z. Tan</a><br>
-    Published in <a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.040315"><em>PRX Quantum</em></a>. Talk at <em>Qcrypt 2024</em>. <a href="https://arxiv.org/abs/2403.11851">arXiv.2403.11851</a>
+    Published in <a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.040315"><em>PRX Quantum</em></a>. Talk at <em>Qcrypt 2024</em>.
   </li>
 
   <li>
@@ -81,8 +81,9 @@ I am broadly interested in the mathematics of quantum information and computatio
   <li><em>Mar 24, 2025</em>  Nonlocal Games Seminar, University of Copenhagen</li>
     <li><em>Dec 18, 2024</em>  Academy of Mathematics and System Sciences, CAS, Beijing</li>
   </ol>
-  <li><b>Robust self-testing for games with nice algebras</b></li>
+  <li><b>An operator algebraic-formulation of robust self-testing</b></li>
   <ol>
+  <li><em>May 14, 2025</em>  Quantum Certification Conference+, Center for Theoretical Physics, Warsaw </li>
     <li><em>Nov 06, 2024</em>  Academy of Mathematics and System Sciences, CAS, Beijing (virtual)</li>
   </ol>
 
