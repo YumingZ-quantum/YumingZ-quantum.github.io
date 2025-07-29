@@ -24,15 +24,9 @@ I am broadly interested in the mathematics of quantum information and computatio
 <ol>
 
   <li>
-    <b>Quantitative quantum soundness for bipartite compiled Bell games via the sequential NPA hierarchy</b><br> 
-  With <a href="https://igorklep.github.io/">
-Igor Klep</a>, <a href="https://www.connorpaddock.page/">
-Connor Paddock</a>, <a href="https://marcolivierrenou.com/">
-Marc-Olivier Renou</a>, <a href="https://qi.rub.de/schmidt">
-Simon Schmidt</a>, <a href="https://scholar.google.com/citations?user=oRsE2swAAAAJ&hlt">
-Lucas Tendick</a>, and <a href="https://sites.google.com/view/xiangling-xu/home?authuser=0">
-Xiangling Xu</a><br>
-    Preprint: <a href="https://arxiv.org/abs/2507.17006">arXiv.2507.17006</a>
+    <b>Lifting the maximally-entangledness assumption in robust self-testing for synchronous games</b><br> 
+  With <a href="https://fa.ewi.tudelft.nl/~mvernooij/index.html">Matthijs Vernooij</a><br>
+    Preprint: <a href="">arXiv.</a>
      
   </li>
 
