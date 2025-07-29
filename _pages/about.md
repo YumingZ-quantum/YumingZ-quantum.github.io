@@ -96,6 +96,7 @@ Xiangling Xu</a><br>
   </ol>
   <li><b>An operator-algebraic formulation of robust self-testing</b></li>
   <ol>
+  <li><em>June 01, 2025</em>  Operator Algebras and Quantum Information, Waterloo</li>
   <li><em>May 14, 2025</em>  Quantum Certification Conference+, Center for Theoretical Physics, Warsaw </li>
     <li><em>Nov 06, 2024</em>  Academy of Mathematics and System Sciences, CAS, Beijing (virtual)</li>
   </ol>
