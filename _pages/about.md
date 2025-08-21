@@ -23,6 +23,17 @@ I am broadly interested in the mathematics of quantum information and computatio
 <h2>Publications and Preprints</h2>
 <ol>
 
+ <li>
+    <b>A complete and natural rule set for multi-qutrit Clifford circuits</b><br> 
+  With <a href="https://sarahmengli.com/">
+Sarah Meng Li</a>, <a href="https://faculty.iqc.uwaterloo.ca/mmosca/">
+Michele Mosca</a>, <a href="https://www.mathstat.dal.ca/~neilr/">
+Neil J. Ross</a>, and <a href="https://vdwetering.name/">
+John van de Wetering</a><br>
+    Published in <a href="https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?QPL2025.2">Proceedings of the 22nd International Conference on Quantum Physics and Logic (QPL 2025)</a>
+     
+  </li>
+
   <li>
     <b>Quantitative quantum soundness for bipartite compiled Bell games via the sequential NPA hierarchy</b><br> 
   With <a href="https://igorklep.github.io/">
@@ -68,7 +79,7 @@ Xiangling Xu</a><br>
     <b>Quantum delegation with an off-the-shelf device</b> <br>
     With <a href="https://mysite.science.uottawa.ca/abroadbe/">Anne Broadbent</a> and 
     <a href="https://mysite.science.uottawa.ca/amehta2/">Arthur Mehta</a><br>
-  Published in <a href="https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.TQC.2024.12"><em>Leibniz International Proceedings in Informatics (LIPIcs)</em></a>.  Talk at <em>Qcrypt 2023</em> <a href="https://www.youtube.com/watch?v=NjpF5lOewhc">[video]</a>. Talk at <em>TQC 2024</em> <a href="https://www.youtube.com/watch?v=MrZmdcxUxP0&t=3555s">[video]</a>.
+  Published in <a href="https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.TQC.2024.12"><em>Proceedings of 19th Conference on the Theory of Quantum Computation, Communication and Cryptography (TQC 2024)</em></a>.  Talk at <em>Qcrypt 2023</em> <a href="https://www.youtube.com/watch?v=NjpF5lOewhc">[video]</a>. Talk at <em>TQC 2024</em> <a href="https://www.youtube.com/watch?v=MrZmdcxUxP0&t=3555s">[video]</a>.
   </li>
 
   <li>
