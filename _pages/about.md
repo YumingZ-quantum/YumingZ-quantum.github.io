@@ -55,7 +55,7 @@ Xiangling Xu</a><br>
   </li>
   <li>
     <b>Robust self-testing for nonlocal games with robust game algebras</b><br> 
-    Preprint: <a href="https://arxiv.org/abs/2411.03259"><em>arXiv.2411.03259</a>
+    Preprint: <a href="https://arxiv.org/abs/2411.03259"><em>arXiv.2411.03259</em></a>
      
   </li>
 
