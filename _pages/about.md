@@ -30,7 +30,7 @@ Sarah Meng Li</a>, <a href="https://faculty.iqc.uwaterloo.ca/mmosca/">
 Michele Mosca</a>, <a href="https://www.mathstat.dal.ca/~neilr/">
 Neil J. Ross</a>, and <a href="https://vdwetering.name/">
 John van de Wetering</a><br>
-    Published in <a href="https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?QPL2025.2">Proceedings of QPL 2025</a>
+    Published in <a href="https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?QPL2025.2"><em>Proceedings of QPL 2025</em></a>
      
   </li>
 
@@ -43,19 +43,19 @@ Marc-Olivier Renou</a>, <a href="https://qi.rub.de/schmidt">
 Simon Schmidt</a>, <a href="https://scholar.google.com/citations?user=oRsE2swAAAAJ&hlt">
 Lucas Tendick</a>, and <a href="https://sites.google.com/view/xiangling-xu/home?authuser=0">
 Xiangling Xu</a><br>
-    Preprint: <a href="https://arxiv.org/abs/2507.17006">arXiv.2507.17006</a>
+    Preprint: <a href="https://arxiv.org/abs/2507.17006"><em>arXiv.2507.17006</em></a>
      
   </li>
 
   <li>
     <b>Lifting the maximally-entangledness assumption in robust self-testing for synchronous games</b><br> 
   With <a href="https://fa.ewi.tudelft.nl/~mvernooij/index.html">Matthijs Vernooij</a><br>
-    Preprint: <a href="https://arxiv.org/abs/2505.05994">arXiv.2505.05994</a>
+    Preprint: <a href="https://arxiv.org/abs/2505.05994"><em>arXiv.2505.05994</em></a>
      
   </li>
   <li>
     <b>Robust self-testing for nonlocal games with robust game algebras</b><br> 
-    Preprint: <a href="https://arxiv.org/abs/2411.03259">arXiv.2411.03259</a>
+    Preprint: <a href="https://arxiv.org/abs/2411.03259"><em>arXiv.2411.03259</a>
      
   </li>
 
@@ -72,7 +72,7 @@ Xiangling Xu</a><br>
     <b>Positivity is undecidable in tensor-product of free algebras</b> <br>
     With <a href="https://mysite.science.uottawa.ca/amehta2/">Arthur Mehta</a> and 
     <a href="http://elliptic.space/">William Slofstra</a><br>
-    Preprint: <a href="https://arxiv.org/abs/2312.05617">arXiv.2312.05617</a>
+    Preprint: <a href="https://arxiv.org/abs/2312.05617"><em>arXiv.2312.05617</em></a>
   </li>
 
   <li>
