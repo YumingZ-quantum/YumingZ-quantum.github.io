@@ -30,7 +30,7 @@ Sarah Meng Li</a>, <a href="https://faculty.iqc.uwaterloo.ca/mmosca/">
 Michele Mosca</a>, <a href="https://www.mathstat.dal.ca/~neilr/">
 Neil J. Ross</a>, and <a href="https://vdwetering.name/">
 John van de Wetering</a><br>
-    Published in <a href="https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?QPL2025.2"><em>Proceedings of QPL 2025</em></a>
+    Published in <a href="https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?QPL2025.2"><em>Proceedings of QPL 2025</em></a>. Plenary talk at <em>QPL 2025</em>
      
   </li>
 
