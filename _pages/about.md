@@ -24,6 +24,15 @@ I am broadly interested in the mathematics of quantum information and computatio
 <ol>
 
 <li>
+    <b>Guess your neighbor's input: Quantum advantage in Feige's game</b><br> 
+  With <a href="https://qi.rub.de/schmidt">
+Simon Schmidt</a>, <a href="https://scholar.google.com/citations?user=zT3YH4gAAAAJ&hl=en">
+Sigurd A. L. Storgaard</a>, and <a href="https://qi.rub.de/walter">Michael Walter</a><br>
+    Preprint: <a href="https://arxiv.org/abs/2510.08484"><em>arXiv:2510.08484</em></a>
+     
+  </li>
+
+<li>
     <b>The NPA hierarchy does not always attain the commuting operator value</b><br> 
   With <a href="https://quriosity.telecom-paris.fr/author/marco-fanizza/">
 Marco Fanizza</a>, <a href="https://www.larissakroell.ca/">
