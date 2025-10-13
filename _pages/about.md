@@ -135,6 +135,7 @@ Xiangling Xu</a><br>
 
   <li><b>Positivity, sum of squares, and decision problems in quantum information</b></li>
   <ol>
+  <li><em>Sept 26, 2025</em> NMSU analysis seminar (viture)</li>
   <li><em>May 08, 2025</em> Analysis seminar, TU Delft</li>
   <li><em>Mar 19, 2025</em> Quantum Information Seminar, Ruhr University Bochum, Germany</li>
   <li><em>Dec 24, 2024</em> School of Mathematical Sciences, Nanjing University</li>
