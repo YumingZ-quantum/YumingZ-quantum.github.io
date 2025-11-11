@@ -17,7 +17,7 @@ I am broadly interested in the mathematics of quantum information and computatio
 
 <h2>Teaching</h2>
 <ul>
-<li><b>Discrete Mathematics (gust lecturer)</b> Fall 2025 and 2026, University of Copenhagen</li>
+<li><b>Discrete Mathematics (guest lecturer)</b> Fall 2025 and 2026, University of Copenhagen</li>
   <li><b>MATH 225 Applied Linear Algebra</b> Spring 2024, UWaterloo</li>
 </ul>
 
