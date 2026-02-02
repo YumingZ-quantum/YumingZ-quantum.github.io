@@ -25,6 +25,15 @@ I am broadly interested in the mathematics of quantum information and computatio
 <ol>
 
 <li>
+    <b>On the undecidability of quantum channel capacities</b><br> 
+  With <a href="https://sites.google.com/view/archishnabhattacharyya/home">
+Archishna Bhattacharyya</a> and <a href="https://mysite.science.uottawa.ca/amehta2/">
+Arthur Mehta</a><br>
+    Preprint: <a href="https://arxiv.org/abs/2601.22471"><em>arXiv:2601.22471</em></a>
+     
+  </li>
+
+<li>
     <b>Guess your neighbor's input: Quantum advantage in Feige's game</b><br> 
   With <a href="https://qi.rub.de/schmidt">
 Simon Schmidt</a>, <a href="https://scholar.google.com/citations?user=zT3YH4gAAAAJ&hl=en">
@@ -115,6 +124,12 @@ Xiangling Xu</a><br>
 
 <h2>Talks and Presentations</h2>
 <ul>
+<li><b>The NPA hierarcy does not always attain the commuting operaor values</b></li>
+  <ol>
+  <li><em>Jan 28, 2026</em>  Quantum Information Processing (QIP) 2026, Riga, Lativa</li>
+  <li><em>Dec 23, 2025</em>  The Honkong University of Science and Technology (Guangzhou)</li>
+    <li><em>Dec 22, 2025</em>  Quantum Science Center of Guangdong-Hong Kong-Macao Greater Bay Area, Shenzhen</li>
+  </ol>
   <li><b>Arithmetical hierarchy in operator algebras and quantum information </b></li>
   <ol>
   <li><em>Apr 28, 2025</em>  INRIA Saclay, Paris</li>
