@@ -133,7 +133,7 @@ Xiangling Xu</a><br>
   </ol>
   <li><b>Arithmetical hierarchy in operator algebras and quantum information </b></li>
   <ol>
-  <li><em>Mar 02, 2026</em> Institute Mittag-Leffler, Stocholm, Sweeden</li>
+  <li><em>Mar 02, 2026</em> Institute Mittag-Leffler, Stockholm, Sweeden</li>
   <li><em>Apr 28, 2025</em>  INRIA Saclay, Paris</li>
   <li><em>Apr 04, 2025</em>  QLunch, University of Copenhagen</li>
   <li><em>Dec 20, 2023</em> Academy of Mathematics and System Sciences, CAS, Beijing</li>
