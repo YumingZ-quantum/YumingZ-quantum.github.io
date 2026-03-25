@@ -126,12 +126,14 @@ Xiangling Xu</a><br>
 <ul>
 <li><b>The NPA hierarcy does not always attain the commuting operaor values</b></li>
   <ol>
+  <li><em>Mar 24, 2026</em>  VERIqTAS Workshop, Lyon, France</li>
   <li><em>Jan 28, 2026</em>  Quantum Information Processing (QIP) 2026, Riga, Lativa</li>
   <li><em>Dec 23, 2025</em>  The Honkong University of Science and Technology (Guangzhou)</li>
     <li><em>Dec 22, 2025</em>  Quantum Science Center of Guangdong-Hong Kong-Macao Greater Bay Area, Shenzhen</li>
   </ol>
   <li><b>Arithmetical hierarchy in operator algebras and quantum information </b></li>
   <ol>
+  <li><em>Mar 02, 2026</em> Institute Mittag-Leffler, Stocholm, Sweeden</li>
   <li><em>Apr 28, 2025</em>  INRIA Saclay, Paris</li>
   <li><em>Apr 04, 2025</em>  QLunch, University of Copenhagen</li>
   <li><em>Dec 20, 2023</em> Academy of Mathematics and System Sciences, CAS, Beijing</li>
