@@ -124,6 +124,10 @@ Xiangling Xu</a><br>
 
 <h2>Talks and Presentations</h2>
 <ul>
+<li><b>Estimating quantum capacity of quantum channels is QMA-hard</b></li>
+  <ol>
+  <li><em>Apr 08, 2026</em> QLunch, University of Copenhagen</li>
+  </ol>
 <li><b>The NPA hierarcy does not always attain the commuting operaor values</b></li>
   <ol>
   <li><em>Mar 24, 2026</em>  VERIqTAS Workshop, Lyon, France</li>
