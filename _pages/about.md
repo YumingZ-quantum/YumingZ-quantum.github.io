@@ -103,7 +103,7 @@ Xiangling Xu</a><br>
     <b>Positivity is undecidable in tensor-product of free algebras</b> <br>
     With <a href="https://mysite.science.uottawa.ca/amehta2/">Arthur Mehta</a> and 
     <a href="http://elliptic.space/">William Slofstra</a><br>
-    Preprint: <a href="https://arxiv.org/abs/2312.05617"><em>arXiv:2312.05617.</em></a> Talk at <em>QIP 2026</em>
+    Published in  <a href="https://doi.org/10.4171/jems/1786"><em>Journal of the European Mathematical Society</em></a>
   </li>
 
   <li>
