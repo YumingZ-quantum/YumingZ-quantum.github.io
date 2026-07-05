@@ -130,6 +130,8 @@ Xiangling Xu</a><br>
   </ol>
 <li><b>The NPA hierarcy does not always attain the commuting operaor values</b></li>
   <ol>
+  <li><em>June 03, 2026</em>  SIAM Optimization, Edinburgh, UK</li>
+  <li><em>May 20, 2026</em>  Institute Mittag-Leffler, Stockholm, Sweden</li>
   <li><em>Mar 24, 2026</em>  VERIqTAS Workshop, Lyon, France</li>
   <li><em>Jan 28, 2026</em>  Quantum Information Processing (QIP) 2026, Riga, Lativa</li>
   <li><em>Dec 23, 2025</em>  The Honkong University of Science and Technology (Guangzhou)</li>
