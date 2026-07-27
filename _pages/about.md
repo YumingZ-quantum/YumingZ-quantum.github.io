@@ -22,7 +22,7 @@ I am broadly interested in the mathematics of quantum information and computatio
 </ul>
 
 <h2>Selected Publications</h2>
-<ol>
+<ul>
 
 <li>
     <b>On the undecidability of quantum channel capacities</b><br> 
@@ -76,7 +76,7 @@ Denis Rochette</a>, and <a href="http://elliptic.space/">William Slofstra</a> <b
     Published in <a href="https://doi.org/10.1007/s00023-023-01378-y"><em>Annales Henri Poincaré</em></a>. 
     Talk at <em>QIP 2023</em> <a href="https://www.youtube.com/watch?v=QsFMjlEF7Wk">[video]</a>.
   </li>
-</ol>
+</ul>
 
 <h2>Talks and Presentations</h2>
 <ul>
