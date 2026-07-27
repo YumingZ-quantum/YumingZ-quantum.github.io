@@ -22,7 +22,7 @@ I am broadly interested in the mathematics of quantum information and computatio
 </ul>
 
 <h2>Selected Publications</h2>
-<ul>
+<ol>
 
 <li>
     <b>On the undecidability of quantum channel capacities</b><br> 
@@ -34,16 +34,7 @@ Arthur Mehta</a><br>
   </li>
 
 
-<li>
-    <b>The NPA hierarchy does not always attain the commuting operator value</b><br> 
-  With <a href="https://quriosity.telecom-paris.fr/author/marco-fanizza/">
-Marco Fanizza</a>, <a href="https://www.larissakroell.ca/">
-Larissa Kroell</a>, <a href="https://mysite.science.uottawa.ca/amehta2/">Arthur Mehta</a>, <a href="https://www.connorpaddock.page/">
-Connor Paddock</a>, <a href="https://www.denisrochette.net/">
-Denis Rochette</a>, and <a href="http://elliptic.space/">William Slofstra</a> <br>
-    Preprint: <a href="https://arxiv.org/abs/2510.04943"><em>arXiv:2510.04943.</em></a> Talk at <em>QIP 2026</em>
-     
-  </li>
+
 
 
  
@@ -69,14 +60,8 @@ Denis Rochette</a>, and <a href="http://elliptic.space/">William Slofstra</a> <b
   </li>
 
 
-  <li>
-    <b>An operator-algebraic formulation of self-testing</b> <br>
-    With <a href="https://www.connorpaddock.page/home">Connor Paddock</a>, 
-    <a href="http://elliptic.space/">William Slofstra</a>, and Yangchen Zhou<br>
-    Published in <a href="https://doi.org/10.1007/s00023-023-01378-y"><em>Annales Henri Poincaré</em></a>. 
-    Talk at <em>QIP 2023</em> <a href="https://www.youtube.com/watch?v=QsFMjlEF7Wk">[video]</a>.
-  </li>
-</ul>
+  
+</ol>
 
 <h2>Talks and Presentations</h2>
 <ul>
