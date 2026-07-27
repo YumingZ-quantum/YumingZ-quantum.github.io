@@ -21,7 +21,7 @@ I am broadly interested in the mathematics of quantum information and computatio
   <li><b>MATH 225 Applied Linear Algebra</b> Spring 2024, UWaterloo</li>
 </ul>
 
-<h2>Publications and Preprints</h2>
+<h2>Selected Publications</h2>
 <ol>
 
 <li>
@@ -33,14 +33,6 @@ Arthur Mehta</a><br>
      
   </li>
 
-<li>
-    <b>Guess your neighbor's input: Quantum advantage in Feige's game</b><br> 
-  With <a href="https://qi.rub.de/schmidt">
-Simon Schmidt</a>, <a href="https://scholar.google.com/citations?user=zT3YH4gAAAAJ&hl=en">
-Sigurd A. L. Storgaard</a>, and <a href="https://qi.rub.de/walter">Michael Walter</a><br>
-    Preprint: <a href="https://arxiv.org/abs/2510.08484"><em>arXiv:2510.08484</em></a>
-     
-  </li>
 
 <li>
     <b>The NPA hierarchy does not always attain the commuting operator value</b><br> 
@@ -54,42 +46,12 @@ Denis Rochette</a>, and <a href="http://elliptic.space/">William Slofstra</a> <b
   </li>
 
 
- <li>
-    <b>A complete and natural rule set for multi-qutrit Clifford circuits</b><br> 
-  With <a href="https://sarahmengli.com/">
-Sarah Meng Li</a>, <a href="https://faculty.iqc.uwaterloo.ca/mmosca/">
-Michele Mosca</a>, <a href="https://www.mathstat.dal.ca/~neilr/">
-Neil J. Ross</a>, and <a href="https://vdwetering.name/">
-John van de Wetering</a><br>
-    Published in <a href="https://cgi.cse.unsw.edu.au/~eptcs/paper.cgi?QPL2025.2"><em>Proceedings of QPL 2025</em></a>. Plenary talk at <em>QPL 2025</em>
-     
-  </li>
+ 
 
-  <li>
-    <b>Quantitative quantum soundness for bipartite compiled Bell games via the sequential NPA hierarchy</b><br> 
-  With <a href="https://igorklep.github.io/">
-Igor Klep</a>, <a href="https://www.connorpaddock.page/">
-Connor Paddock</a>, <a href="https://marcolivierrenou.com/">
-Marc-Olivier Renou</a>, <a href="https://qi.rub.de/schmidt">
-Simon Schmidt</a>, <a href="https://scholar.google.com/citations?user=oRsE2swAAAAJ&hlt">
-Lucas Tendick</a>, and <a href="https://sites.google.com/view/xiangling-xu/home?authuser=0">
-Xiangling Xu</a><br>
-    Preprint: <a href="https://arxiv.org/abs/2507.17006"><em>arXiv:2507.17006.</em></a> Talk at <em>QIP 2026</em>
-     
-  </li>
+  
 
-  <li>
-    <b>Lifting the maximally-entangledness assumption in robust self-testing for synchronous games</b><br> 
-  With <a href="https://fa.ewi.tudelft.nl/~mvernooij/index.html">Matthijs Vernooij</a><br>
-    Preprint: <a href="https://arxiv.org/abs/2505.05994"><em>arXiv:2505.05994</em></a>
-     
-  </li>
-  <li>
-    <b>Robust self-testing for nonlocal games with robust game algebras</b><br> 
-    Preprint: <a href="https://arxiv.org/abs/2411.03259"><em>arXiv:2411.03259</em></a>
-     
-  </li>
-
+  
+  
   <li>
     <b>Postselection technique for optical QKD with improved de Finetti theorems</b><br>
     With <a href="https://scholar.google.com/citations?user=u3wtiyUAAAAJ&hl=en">Shlok Nahar</a>, 
@@ -106,12 +68,6 @@ Xiangling Xu</a><br>
     Published in  <a href="https://doi.org/10.4171/jems/1786"><em>Journal of the European Mathematical Society</em></a>
   </li>
 
-  <li>
-    <b>Quantum delegation with an off-the-shelf device</b> <br>
-    With <a href="https://mysite.science.uottawa.ca/abroadbe/">Anne Broadbent</a> and 
-    <a href="https://mysite.science.uottawa.ca/amehta2/">Arthur Mehta</a><br>
-  Published in <a href="https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.TQC.2024.12"><em>Proceedings of TQC 2024</em></a>.  Talk at <em>Qcrypt 2023</em> <a href="https://www.youtube.com/watch?v=NjpF5lOewhc">[video]</a>. Talk at <em>TQC 2024</em> <a href="https://www.youtube.com/watch?v=MrZmdcxUxP0&t=3555s">[video]</a>.
-  </li>
 
   <li>
     <b>An operator-algebraic formulation of self-testing</b> <br>
