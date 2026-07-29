@@ -39,3 +39,47 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Publication list organized by year */
+
+.publication-year-group {
+  display: grid;
+  grid-template-columns: 5rem minmax(0, 1fr);
+  column-gap: 1.5rem;
+  align-items: start;
+  margin-bottom: 2rem;
+}
+
+.publication-year {
+  font-size: 1.35rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-align: left;
+}
+
+.publication-list {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 1.25rem;
+}
+
+.publication-list li {
+  margin-bottom: 1.25rem;
+}
+
+.publication-list li:last-child {
+  margin-bottom: 0;
+}
+
+/* Stack the year above the papers on narrow screens */
+
+@media screen and (max-width: 600px) {
+  .publication-year-group {
+    grid-template-columns: 1fr;
+    row-gap: 0.4rem;
+  }
+
+  .publication-year {
+    font-size: 1.2rem;
+  }
+}

@@ -5,14 +5,23 @@ permalink: /publications/
 author_profile: true
 ---
 
-<li>
+<div class="publication-year-group">
+  <div class="publication-year">2026</div>
+
+  <ul class="publication-list">
+    <li>
     <b>On the undecidability of quantum channel capacities</b><br>
   With <a href="https://sites.google.com/view/archishnabhattacharyya/home">
 Archishna Bhattacharyya</a> and <a href="https://mysite.science.uottawa.ca/amehta2/">
 Arthur Mehta</a><br>
     To appear in <em>FOCS 2026</em>. Preprint: <a href="https://arxiv.org/abs/2601.22471"><em>arXiv:2601.22471</em></a>
-     
-  </li>
+    </li>
+  </ul>
+</div>
+
+
+
+
 
 
 <li>
