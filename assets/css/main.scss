@@ -42,19 +42,18 @@
 
 /* Publication list organized by year */
 
+/* Publications grouped by year */
+
 .publication-year-group {
-  display: grid;
-  grid-template-columns: 5rem minmax(0, 1fr);
-  column-gap: 1.5rem;
-  align-items: start;
+  display: block;
   margin-bottom: 2rem;
 }
 
 .publication-year {
-  font-size: 1.35rem;
-  font-weight: 700;
-  line-height: 1.5;
-  text-align: left;
+  font-size: inherit;
+  font-weight: normal;
+  line-height: inherit;
+  margin-bottom: 0.5rem;
 }
 
 .publication-list {
@@ -69,17 +68,4 @@
 
 .publication-list li:last-child {
   margin-bottom: 0;
-}
-
-/* Stack the year above the papers on narrow screens */
-
-@media screen and (max-width: 600px) {
-  .publication-year-group {
-    grid-template-columns: 1fr;
-    row-gap: 0.4rem;
-  }
-
-  .publication-year {
-    font-size: 1.2rem;
-  }
 }
