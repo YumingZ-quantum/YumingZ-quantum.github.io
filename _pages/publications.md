@@ -123,7 +123,7 @@ Xiangling Xu</a><br>
     <b>Quantum delegation with an off-the-shelf device</b> <br>
     With <a href="https://mysite.science.uottawa.ca/abroadbe/">Anne Broadbent</a> and
     <a href="https://mysite.science.uottawa.ca/amehta2/">Arthur Mehta</a><br>
-  Published in <a href="https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.TQC.2024.12"><em>Proceedings of TQC 2024</em></a>.  Talk at <em>Qcrypt 2023</em> <a href="https://www.youtube.com/watch?v=NjpF5lOewhc">[video]</a>. Talk at <em>TQC 2024</em> <a href="https://www.youtube.com/watch?v=MrZmdcxUxP0&t=3555s">[video]</a>.
+  Published in <a href="https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.TQC.2024.12"><em>Proceedings of TQC 2024</em></a>.  Talk at <em>Qcrypt 2023</em> <a href="https://www.youtube.com/watch?v=NjpF5lOewhc">[video]</a> & <em>TQC 2024</em> <a href="https://www.youtube.com/watch?v=MrZmdcxUxP0&t=3555s">[video]</a>.
   </li>
 
 
