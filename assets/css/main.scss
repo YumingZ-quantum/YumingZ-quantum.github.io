@@ -40,8 +40,6 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Publication list organized by year */
-
 /* Publications grouped by year */
 
 .publication-year-group {
@@ -51,7 +49,7 @@
 
 .publication-year {
   font-size: inherit;
-  font-weight: normal;
+  font-weight: 600;
   line-height: inherit;
   margin-bottom: 0.5rem;
 }
@@ -68,4 +66,12 @@
 
 .publication-list li:last-child {
   margin-bottom: 0;
+}
+
+/* Slightly indent publication bullets on wide screens */
+
+@media screen and (min-width: 768px) {
+  .publication-list {
+    padding-left: 2rem;
+  }
 }
