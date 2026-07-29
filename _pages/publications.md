@@ -20,11 +20,11 @@ Arthur Mehta</a><br>
 </div>
 
 
+<div class="publication-year-group">
+  <div class="publication-year">2025</div>
 
-
-
-
-<li>
+  <ul class="publication-list">
+    <li>
     <b>Guess your neighbor's input: Quantum advantage in Feige's game</b><br>
   With <a href="https://qi.rub.de/schmidt">
 Simon Schmidt</a>, <a href="https://scholar.google.com/citations?user=zT3YH4gAAAAJ&hl=en">
@@ -80,7 +80,14 @@ Xiangling Xu</a><br>
     Preprint: <a href="https://arxiv.org/abs/2505.05994"><em>arXiv:2505.05994</em></a>
      
   </li>
-  <li>
+  </ul>
+</div>
+
+<div class="publication-year-group">
+  <div class="publication-year">2024</div>
+
+  <ul class="publication-list">
+    <li>
     <b>Robust self-testing for nonlocal games with robust game algebras</b><br>
     Preprint: <a href="https://arxiv.org/abs/2411.03259"><em>arXiv:2411.03259</em></a>
      
@@ -95,9 +102,16 @@ Xiangling Xu</a><br>
     <a href="https://scholar.google.com/citations?user=c9S6cgIAAAAJ&hl=en">Ernest Y.-Z. Tan</a><br>
     Published in <a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.040315"><em>PRX Quantum</em></a>. Talk at <em>Qcrypt 2024</em>.
   </li>
+  </ul>
+</div>
 
 
-  <li>
+
+<div class="publication-year-group">
+  <div class="publication-year">2023</div>
+
+  <ul class="publication-list">
+    <li>
     <b>Positivity is undecidable in tensor-product of free algebras</b> <br>
     With <a href="https://mysite.science.uottawa.ca/amehta2/">Arthur Mehta</a> and
     <a href="http://elliptic.space/">William Slofstra</a><br>
@@ -121,6 +135,13 @@ Xiangling Xu</a><br>
     Talk at <em>QIP 2023</em> <a href="https://www.youtube.com/watch?v=QsFMjlEF7Wk">[video]</a>.
   </li>
 
+  </ul>
+</div>
+
+  
+
+
+  
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
