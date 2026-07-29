@@ -23,6 +23,10 @@ I am broadly interested in the mathematics of quantum information and computatio
 </ul>
 
 <h2>Selected Publications</h2>
+<p>
+  See the full list of publications
+  <a href="https://yumingz-quantum.github.io/publications/">here</a>.
+</p>
 <ol>
 
 <li>
@@ -59,11 +63,7 @@ Arthur Mehta</a><br>
     <a href="http://elliptic.space/">William Slofstra</a><br>
     Published in  <a href="https://doi.org/10.4171/jems/1786"><em>Journal of the European Mathematical Society</em></a>
   </li>
-
-
-  
 </ol>
 
-<h2>Talks and Presentations</h2>
 
 
