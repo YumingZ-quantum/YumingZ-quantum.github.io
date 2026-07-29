@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 I am a postdoc at the [Centre for the Mathematics of Quantum Theory](https://qmath.ku.dk/), [University of Copenhagen](https://www.ku.dk/english/), hosted by [Laura Mančinska](https://research.ku.dk/search/result/profile/?id=604782). I received my Ph.D. in 2024 from the [Institute for Quantum Computing](https://uwaterloo.ca/institute-for-quantum-computing/) and [Department of Pure Mathematics](https://uwaterloo.ca/pure-mathematics/) at the [University of Waterloo](https://uwaterloo.ca/), where I was supervised by [William Slofstra](http://elliptic.space/). Before that, I obtained my bachelor degree in Mathematics and Applied Mathematics from [Zhejiang University](https://www.zju.edu.cn/english/) in 2019, under the supervision of [Junde Wu](https://person.zju.edu.cn/en/wujunde). I also spent a semester at [Rice University](https://www.rice.edu/) as an undergraduate exchange student (2017).
 
 
