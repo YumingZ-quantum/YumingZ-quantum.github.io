@@ -29,7 +29,7 @@ I am broadly interested in the mathematics of quantum information and computatio
     <a href="http://elliptic.space/">William Slofstra</a><br>
     Published in  <a href="https://doi.org/10.4171/jems/1786"><em>Journal of the European Mathematical Society</em></a>
   </li>
-</ol>
+
 
 <li>
     <b>The NPA hierarchy does not always attain the commuting operator value</b><br>
@@ -69,7 +69,7 @@ Arthur Mehta</a><br>
     <a href="https://scholar.google.com/citations?user=c9S6cgIAAAAJ&hl=en">Ernest Y.-Z. Tan</a><br>
     Published in <a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.040315"><em>PRX Quantum</em></a>. Talk at <em>Qcrypt 2024</em>.
   </li>
-
+</ol>
  <h2>Teaching</h2>
 <ul>
 <li><b>Lecturer for Quantum Information and Quantum Many-Body Theory Summer School</b> Summer 2026, Sorbonne University, Paris</li>
