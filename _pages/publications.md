@@ -41,7 +41,7 @@ Marco Fanizza</a>, <a href="https://www.larissakroell.ca/">
 Larissa Kroell</a>, <a href="https://mysite.science.uottawa.ca/amehta2/">Arthur Mehta</a>, <a href="https://www.connorpaddock.page/">
 Connor Paddock</a>, <a href="https://www.denisrochette.net/">
 Denis Rochette</a>, and <a href="http://elliptic.space/">William Slofstra</a> <br>
-    Preprint: <a href="https://arxiv.org/abs/2510.04943"><em>arXiv:2510.04943.</em></a> Talk at <em>QIP 2026</em>
+  To appear in <em> Quantum </em>.  Preprint: <a href="https://arxiv.org/abs/2510.04943"><em>arXiv:2510.04943.</em></a> Talk at <em>QIP 2026</em>
      
   </li>
 
@@ -77,7 +77,7 @@ Xiangling Xu</a><br>
   <li>
     <b>Lifting the maximally-entangledness assumption in robust self-testing for synchronous games</b><br>
   With <a href="https://fa.ewi.tudelft.nl/~mvernooij/index.html">Matthijs Vernooij</a><br>
-    Preprint: <a href="https://arxiv.org/abs/2505.05994"><em>arXiv:2505.05994</em></a>
+   To appear in <em> Quantum </em>. Preprint: <a href="https://arxiv.org/abs/2505.05994"><em>arXiv:2505.05994</em></a>
      
   </li>
   </ul>

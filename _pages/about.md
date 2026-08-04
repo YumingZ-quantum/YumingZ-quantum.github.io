@@ -16,11 +16,6 @@ I am a postdoc at the [Centre for the Mathematics of Quantum Theory](https://qma
 
 I am broadly interested in the mathematics of quantum information and computation. In the past, I have worked on approximate representation theory and its applications in quantum self-testing, delegation of quantum computation, quantum complexity, and decidability in operator algebras. You can find my PhD thesis [here](https://uwspace.uwaterloo.ca/items/46628116-f8f0-4ae2-9b0c-d1a389cb8d43).
 
-<h2>Teaching</h2>
-<ul>
-<li><b>Discrete Mathematics (guest lecturer)</b> Fall 2025 and 2026, University of Copenhagen</li>
-  <li><b>MATH 225 Applied Linear Algebra</b> Spring 2024, UWaterloo</li>
-</ul>
 
 <h2>Selected Publications</h2>
 <p>
@@ -28,6 +23,24 @@ I am broadly interested in the mathematics of quantum information and computatio
   <a href="https://yumingz-quantum.github.io/publications/">here</a>.
 </p>
 <ol>
+ <li>
+    <b>Positivity is undecidable in tensor-product of free algebras</b> <br>
+    With <a href="https://mysite.science.uottawa.ca/amehta2/">Arthur Mehta</a> and 
+    <a href="http://elliptic.space/">William Slofstra</a><br>
+    Published in  <a href="https://doi.org/10.4171/jems/1786"><em>Journal of the European Mathematical Society</em></a>
+  </li>
+</ol>
+
+<li>
+    <b>The NPA hierarchy does not always attain the commuting operator value</b><br>
+  With <a href="https://quriosity.telecom-paris.fr/author/marco-fanizza/">
+Marco Fanizza</a>, <a href="https://www.larissakroell.ca/">
+Larissa Kroell</a>, <a href="https://mysite.science.uottawa.ca/amehta2/">Arthur Mehta</a>, <a href="https://www.connorpaddock.page/">
+Connor Paddock</a>, <a href="https://www.denisrochette.net/">
+Denis Rochette</a>, and <a href="http://elliptic.space/">William Slofstra</a> <br>
+  To appear in <em> Quantum </em>.  Preprint: <a href="https://arxiv.org/abs/2510.04943"><em>arXiv:2510.04943.</em></a> Talk at <em>QIP 2026</em>
+     
+  </li>
 
 <li>
     <b>On the undecidability of quantum channel capacities</b><br> 
@@ -57,13 +70,13 @@ Arthur Mehta</a><br>
     Published in <a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.040315"><em>PRX Quantum</em></a>. Talk at <em>Qcrypt 2024</em>.
   </li>
 
-  <li>
-    <b>Positivity is undecidable in tensor-product of free algebras</b> <br>
-    With <a href="https://mysite.science.uottawa.ca/amehta2/">Arthur Mehta</a> and 
-    <a href="http://elliptic.space/">William Slofstra</a><br>
-    Published in  <a href="https://doi.org/10.4171/jems/1786"><em>Journal of the European Mathematical Society</em></a>
-  </li>
-</ol>
+ <h2>Teaching</h2>
+<ul>
+<li><b>Lecturer for Quantum Information and Quantum Many-Body Theory Summer School</b> Summer 2026, Sorbonne University, Paris</li>
+<li><b>Discrete Mathematics (guest lecturer)</b> Fall 2025 and 2026, University of Copenhagen</li>
+  <li><b>MATH 225 Applied Linear Algebra</b> Spring 2024, UWaterloo</li>
+</ul>
+
 
 
 
