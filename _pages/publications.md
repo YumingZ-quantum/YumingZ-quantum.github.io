@@ -10,6 +10,26 @@ author_profile: true
 
   <ul class="publication-list">
 
+<li>
+    <b>A complete and natural rule set for multi-qutdit Clifford circuits in all odd prime dimensions</b><br>
+  With <a href="https://www.mathstat.dal.ca/~xbian/">
+Xiaoning Bian</a>, <a href="https://sarahmengli.com/">
+Sarah Meng Li</a>, <a href="https://www.mathstat.dal.ca/~neilr/">
+Neil J. Ross</a>, and <a href="https://vdwetering.name/">
+John van de Wetering</a><br>
+    Preprint: <a href="https://arxiv.org/abs/2609.40106"><em>2609.40106</em></a>
+  </li>
+
+
+<li>
+    <b>Quantum interaction can superactivate cheating under parallel repetition</b><br>
+  With <a href="https://sites.google.com/view/archishnabhattacharyya/home">
+Archishna Bhattacharyya</a> and <a href="https://researchprofiles.ku.dk/en/persons/laura-mancinska/">
+Laura Mančinska</a><br>
+    Preprint: <a href="https://arxiv.org/abs/2609.31223"><em>arXiv:2609.31223</em></a>
+    </li>
+  
+
   <li>
     <b>A non-robust quantum correlation self-test</b><br>
   With <a href="https://cryl.github.io/">
@@ -18,7 +38,7 @@ Ranyiliu Chen</a><br>
      
   </li>
 
-    <li>
+  <li>
     <b>On the undecidability of quantum channel capacities</b><br>
   With <a href="https://sites.google.com/view/archishnabhattacharyya/home">
 Archishna Bhattacharyya</a> and <a href="https://mysite.science.uottawa.ca/amehta2/">
@@ -86,7 +106,7 @@ Xiangling Xu</a><br>
   <li>
     <b>Lifting the maximally-entangledness assumption in robust self-testing for synchronous games</b><br>
   With <a href="https://fa.ewi.tudelft.nl/~mvernooij/index.html">Matthijs Vernooij</a><br>
-    Published in <a href="https://quantum-journal.org/papers/q-2026-10-01-2222/"><em> Quantum </em></a>.
+    Published in <a href="https://quantum-journal.org/papers/q-2026-10-01-2222/"><em>Quantum</em></a>.
      
   </li>
   </ul>
