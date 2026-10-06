@@ -17,7 +17,7 @@ Xiaoning Bian</a>, <a href="https://sarahmengli.com/">
 Sarah Meng Li</a>, <a href="https://www.mathstat.dal.ca/~neilr/">
 Neil J. Ross</a>, and <a href="https://vdwetering.name/">
 John van de Wetering</a><br>
-    Preprint: <a href="https://arxiv.org/abs/2609.40106"><em>2609.40106</em></a>
+    Preprint: <a href="https://arxiv.org/abs/2609.40106"><em>arXiv:2609.40106</em></a>
   </li>
 
 
