@@ -9,6 +9,15 @@ author_profile: true
   <div class="publication-year">2026</div>
 
   <ul class="publication-list">
+
+  <li>
+    <b>A non-robust quantum correlation self-test</b><br>
+  With <a href="https://cryl.github.io/">
+Ranyiliu Chen</a><br>
+    Preprint: <a href="https://arxiv.org/abs/2609.25117"><em>arXiv:2609.25117</em></a>
+     
+  </li>
+
     <li>
     <b>On the undecidability of quantum channel capacities</b><br>
   With <a href="https://sites.google.com/view/archishnabhattacharyya/home">
@@ -77,7 +86,7 @@ Xiangling Xu</a><br>
   <li>
     <b>Lifting the maximally-entangledness assumption in robust self-testing for synchronous games</b><br>
   With <a href="https://fa.ewi.tudelft.nl/~mvernooij/index.html">Matthijs Vernooij</a><br>
-   To appear in <em> Quantum </em>. Preprint: <a href="https://arxiv.org/abs/2505.05994"><em>arXiv:2505.05994</em></a>
+    Published in <a href="https://quantum-journal.org/papers/q-2026-10-01-2222/"><em> Quantum </em></a>.
      
   </li>
   </ul>
